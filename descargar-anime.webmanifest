@@ -1,0 +1,19 @@
+{
+    "name": "Descargar Anime",
+    "short_name": "Descargar Anime",
+    "icons": [
+        {
+            "src": "https://1.bp.blogspot.com/-lBeIZM2sPR8/X_XwzGIJdTI/AAAAAAAAB0E/PXoEdZVVVGoL0CpQEJJVNkDKrMsEd9d9ACLcBGAsYHQ/s192/Logo-Descargar-Anime.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-lBeIZM2sPR8/X_XwzGIJdTI/AAAAAAAAB0E/PXoEdZVVVGoL0CpQEJJVNkDKrMsEd9d9ACLcBGAsYHQ/s256/Logo-Descargar-Anime.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#131313",
+    "background_color": "#131313",
+    "display": "standalone"
+}
